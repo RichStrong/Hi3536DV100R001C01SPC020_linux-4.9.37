@@ -177,3 +177,5 @@ obj-$(CONFIG_FPGA)		+= fpga/
 obj-$(CONFIG_HI_DMAC)		+= hidmac/
 
 obj-$(CONFIG_ARCH_HISI_BVT)	+= hisilicon/
+
+obj-y	+= wesine/
